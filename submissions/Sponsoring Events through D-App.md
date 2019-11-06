@@ -23,7 +23,8 @@ Once a company has sponsored in one event, that company would have to sponsor in
 
 # Related Links
 
-* Github repo for the project
+* Github repo for the project:
+https://github.com/Kirpalsinh9/EIP1973_dapp
 * Wesbite link
 
 
